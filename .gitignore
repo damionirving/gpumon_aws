@@ -57,6 +57,11 @@ cover/
 
 # Django stuff:
 *.log
+
+# Python Dev from local
+logs/
+Dev_and_deploy*
+
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -77,6 +82,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb_checkpoints/
 
 # IPython
 profile_default/
